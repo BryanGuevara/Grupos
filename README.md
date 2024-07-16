@@ -1,1 +1,13 @@
-# Grupos
+# Grupos Pequeños
+
+Este programa se me ocurrio cuando estaba en clase de **Educación Cristiana** donde nos hablaban acerca del tema de los grupos pequeños de testimonio, hablaba de las preocupaciones de el que organiza el grupo pequeño
+
+Las cuales las principales son el **lugar**, **quienes participan** y tambien **quien sera el lider**, aunque uno que me inspiro a hacer el programa fue acerca del tamaño del grupo, el capitulo dice:
+
+---
+
+**¿Cuál tamaño de grupo es mejor para obtener resultados óptimos?**
+
+El tamaño del grupo constituye otra cuestión vital estrechamente relacionada con la meta del nutrimiento para el crecimiento espiritual. Algunas personas tienden a decir: "Mientras más grande sea el grupo, es mejor." Quizá sea verdad esa declaración en el caso de juegos y fiestas, pero no funciona bien para los grupos de testimonio. Veamos por qué. Es un hecho que mientras más grande sea el grupo más exige relaciones entre sus miembros. Esta circunstancia significa que cada miembro tendrá menos tiempo para la interacción mutua, así como menos oportunidades de verdadero testimonio personal. Cuando los grupos de testimonio pierden su carácter personal, se vuelven menos valiosos para los participantes y pueden considerarse simplemente como "otra actividad relacionada con la iglesia". Las personas se inclinan a establecer y sostener bien sólo un número reducido de relaciones mutuas. Si se rebasa ese número de relaciones éstas pierden su significado; son sólo casuales y hasta forzadas. Por tanto, cuando un grupo aumenta más allá de cierto tamaño, sus esfuerzos se vuelven contraproducentes Piense en eso por un momento.
+
+Un grupo de tres personas desarrolla seis relaciones interpersonales, un grupo de cuatro, doce relaciones y, otro de cinco, veinte relaciones. Es obvio que mientras más grande sea el grupo mayor será el número de relaciones que cada persona debe desarrollar y sostener. Debido a este factor, muchos líderes de grupo experimentados han descubierto que el tamaño del grupo pequeño ideal es como de ocho a doce personas; el número mayor que puede tener sin perder su carácter de grupo pequeño es como de 15 personas. Por tanto, cuando un grupo crece hasta ese tamaño, debe organizarse en dos grupos pequeños. Cuando éstos crezcan hasta ese mismo tamaño, deben dividirse de nuevo. Quienes trabajan regularmente como líderes de grupos pequeños se dan cuenta que los grupos más pequeños tienden a aumentar con mayor rapidez que los más grandes. Por tanto, para resultados óptimos, el grupo pequeño debería incluir como diez, pero no más de quince personas.
